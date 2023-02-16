@@ -24,4 +24,4 @@ npm start
 ```
 Após o carregamento, será exibida a seguinte página:
 
-![Exemplo de tela a ser exibida ao rodar a aplicação React](/img/aula-5-p%C3%A1gina.png "Aplicação React")
+![Exemplo de tela a ser exibida ao rodar a aplicação React](https://github.com/tiagomazzon/alura-django-api/blob/master/drf_clientes_frontend/img/aula-5-p%C3%A1gina.png "Aplicação React")
