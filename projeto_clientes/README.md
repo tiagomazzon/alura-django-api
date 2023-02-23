@@ -6,7 +6,7 @@ Conteúdo:
 * buscas 
 * ordenação
 
-https://cursos.alura.com.br/course/api-django-3-validacoes-buscas-filtros-deploy?preRequirementFrom=api-django-3-versionamento-cabecalhos-cors
+https://cursos.alura.com.br/course/api-django-3-validacoes-buscas-filtros-deploy
 
 ## Parte da Formação Django REST APIs:
 
