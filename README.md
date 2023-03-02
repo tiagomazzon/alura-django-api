@@ -18,3 +18,6 @@ https://cursos.alura.com.br/formacao-django-rest
     
 * Parte 4: [Curso de API com Django 3: Testes, segurança e lapidações](https://cursos.alura.com.br/course/api-django-3-testes-seguranca-lapidacoes)
     * Projeto: [./drf_lapidacoes](https://github.com/tiagomazzon/alura-django-api/tree/master/drf_lapidacoes)
+
+* Parte 5: [Curso de API com Django 3: Aprofundando em testes e documentação](https://cursos.alura.com.br/course/api-django-3-testes-documentacao)
+    * Projeto: [./drf_teste_documentacao](https://github.com/tiagomazzon/alura-django-api/tree/master/drf_teste_documentacao)
